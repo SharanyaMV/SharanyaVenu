@@ -23,7 +23,7 @@
 ---
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sharanya-v)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharanya-v/)  
  
 
 💡 *“Data is the new oil; insights are the refinery.”*

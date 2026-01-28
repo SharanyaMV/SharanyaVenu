@@ -16,7 +16,7 @@
 ---
 
 ### 📊 About Me:
-- 🎓 Pursuing **MCA**, with a background in **BCA**.
+- 🎓 **MCA** Graduate.
 - 💡 Passionate about **data analytics, visualization, and business insights**.
 
 
